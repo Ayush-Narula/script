@@ -123,16 +123,16 @@ header {
     list-style: none;
 }
 
-.nav_links li {
+.nav_links a {
     display: inline-block;
     padding: 0px 20px;
 }
 
-.nav_links li a {
+.nav_links a {
     transition: all 0.3s ease 0s;
 }
 
-.nav_links li a:hover {
+.nav_links a:hover {
     color: #0088a9;
 }
 
@@ -750,5 +750,42 @@ footer {
 
     #img-section {
     justify-content: center;
+    }
+}
+
+@media screen and (min-width: 915px) and (max-width: 1000px) {
+    .why-boxes{
+        /* flex-direction: column;
+         */
+         flex-wrap: wrap;
+        align-items: center;
+        /* justify-content: center; */
+        gap: 30px;
+        /* height: 300px;
+        width: 400px; */
+       }
+
+       .aboutUs-section {
+        flex-direction: column;
+        text-wrap: wrap;
+       }
+
+       #footer-logo h1 {
+        font-size: 100px; 
+        align-items: center;
+       }
+
+       /* .nav_links li {
+        display: none;
+    } */
+
+    #img-section {
+        margin-left: 180px;
+    }
+    
+    #img-section img {
+        width: 500px;
+        height: auto;
+
     }
 }
