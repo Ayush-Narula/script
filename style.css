@@ -757,7 +757,7 @@ footer {
     .why-boxes{
         /* flex-direction: column;
          */
-         flex-wrap: wrap;
+         /* flex-wrap: wrap; */
         align-items: center;
         /* justify-content: center; */
         gap: 30px;
@@ -786,6 +786,5 @@ footer {
     #img-section img {
         width: 500px;
         height: auto;
-
     }
 }
