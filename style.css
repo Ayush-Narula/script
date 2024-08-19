@@ -445,7 +445,7 @@ footer {
     font-size: 13px;
 }
 
-@media screen and (min-width: 0) and (max-width: 470px) {
+/* @media screen and (min-width: 0) and (max-width: 470px) {
 
     header {
      padding: 30px 3%;
@@ -467,7 +467,7 @@ footer {
          align-items: center;
          gap: 30px;
          /* height: 220px;
-         width: 380px; */
+         width: 380px; 
         }
  
         .box-1-content h4 {
@@ -525,17 +525,18 @@ footer {
  #third-text {
      font-size: 40px;
  }
- 
- /* .nav_links a {
+
+ .nav_links a {
      display: none;
- } */
+ } 
  
  .header-items {
      justify-content: space-between;
  }
  
  }
- 
+  */
+  
  @media screen and (min-width: 0) and (max-width: 500px) {
 
    header {
