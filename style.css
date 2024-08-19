@@ -626,10 +626,10 @@ footer {
 }
 
 .first-slide {
-    align-items: center;
+    align-items: center; 
 }
 
-.nav_links li {
+.nav_links a {
     display: none;
 }
 
@@ -658,7 +658,7 @@ footer {
         align-items: center;
        }
 
-       .nav_links li {
+       .nav_links a {
         display: none;
     }
 }
@@ -682,7 +682,7 @@ footer {
         align-items: center;
        }
 
-       .nav_links li {
+       .nav_links a {
         display: none;
     }
 
@@ -713,7 +713,7 @@ footer {
         align-items: center;
        }
 
-       .nav_links li {
+       .nav_links a {
         display: none;
     }
 
