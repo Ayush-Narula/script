@@ -471,11 +471,11 @@ footer {
         }
  
         .box-1-content h4 {
-         font-size: 20px;
+         font-size: 21px;
      }
  
      .box-2-content h4 {
-         font-size: 20px;
+         font-size: 21px;
      }
  
         .aboutUs-section {
@@ -526,9 +526,9 @@ footer {
      font-size: 40px;
  }
  
- .nav_links a {
+ /* .nav_links a {
      display: none;
- }
+ } */
  
  .header-items {
      justify-content: space-between;
