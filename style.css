@@ -617,9 +617,9 @@ footer {
     font-size: 40px;
 }
 
-/* .nav_links a {
+.nav_links a {
     display: none;
-} */
+}
 
 .header-items {
     justify-content: space-between;
