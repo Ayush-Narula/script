@@ -617,9 +617,9 @@ footer {
     font-size: 40px;
 }
 
-.nav_links a {
+/* .nav_links a {
     display: none;
-}
+} */
 
 .header-items {
     justify-content: space-between;
@@ -644,9 +644,9 @@ footer {
         align-items: center;
        }
 
-       /* .nav_links a {
+       .nav_links a {
         display: none;
-    } */
+    }
 }
 
 @media screen and (min-width: 601px) and (max-width: 700px) {
